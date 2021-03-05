@@ -1,12 +1,14 @@
 ---
-title: "An example conference paper"
+title: "Towards Discovery and Attribution of Open-world GAN Generated Images"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
+- Saksham Suri
+- Saketh Rambhatla
+- Abhinav Shrivastava
 
 # Author notes (optional)
 author_notes:

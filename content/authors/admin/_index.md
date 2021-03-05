@@ -65,8 +65,7 @@ email: ""
 highlight_name: false
 ---
 
-I am a second year Ph.D. student in the department of {{< ref "https://www.cs.umd.edu/" "newtab" >}}Computer Science{{< /staticref >}} at the {{< staticref "https://www.umd.edu/" "newtab" >}}University of Maryland, College Park{{< /staticref >}}. I am being advised by {{< staticref "https://www.cs.umd.edu/~abhinav/" "newtab" >}}Prof. Abhinav Shrivastava{{< /staticref >}}. My research interests include machine learning and computer vision. Currently my research focuses on open-world learning and model compression for various recognition tasks.
-
-I completed my Bachelor's degree from the Department of Electrical Engineering at the {{< staticref "https://www.iitm.ac.in/" "newtab" >}}Indian Institute of Technology Madras{{< /staticref >}} where I worked with {{< staticref "http://www.ee.iitm.ac.in/~raju/" "newtab" >}}Prof. A.N. Rajagopalan{{< /staticref >}} and {{< staticref "http://www.ee.iitm.ac.in/kmitra/" "newtab" >}}Prof. Kaushik Mitra{{< /staticref >}}. 
+<!-- [I'm an external link](https://www.google.com) -->
+I completed my Bachelor's degree from the Department of Electrical Engineering at the [Indian Institute of Technology Madras](https://www.iitm.ac.in/) where I worked with [Prof. A.N. Rajagopalan](http://www.ee.iitm.ac.in/~raju/) and [Prof. Kaushik Mitra](http://www.ee.iitm.ac.in/kmitra/). 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Sharath_Girish.pdf" "newtab" >}}CV{{< /staticref >}}.

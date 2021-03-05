@@ -1,7 +1,8 @@
 ---
 title: The Lottery Ticket Hypothesis for Object Recognition
 summary: To appear in IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021
-authors:
+weight: 66
+authors: 
 - admin
 - Shishira R Maiya
 - Kamal Gupta

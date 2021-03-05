@@ -1,7 +1,8 @@
 ---
 title: A Unified Learning-Based Framework for Light Field Reconstruction From Coded Projections
 summary: IEEE Transactions on Computational Imaging (TCI), 2019
-authors:
+weight: 69
+authors: 
 - Anil Kumar Vadathya
 - admin
 - Kaushik Mitra

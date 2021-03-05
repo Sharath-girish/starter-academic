@@ -1,5 +1,6 @@
 ---
 title: Towards Discovery and Attribution of Open-world GAN Generated Images
+weight: 67
 summary: Under Review
 authors:
 - admin

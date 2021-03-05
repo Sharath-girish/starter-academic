@@ -1,6 +1,7 @@
 ---
 title: Unconstrained Motion Deblurring for Dual-lens Cameras
 summary: Oral, Proceedings of the IEEE International Conference on Computer Vision (ICCV), 2019
+weight: 68
 authors:
 - M. R. Mahesh Mohan
 - admin

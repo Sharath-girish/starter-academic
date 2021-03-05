@@ -64,7 +64,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-
+I am a second year Ph.D. student in the department of [Computer Science](https://www.cs.umd.edu/) at the [University of Maryland, College Park](https://www.umd.edu). I am being advised by [Prof. Abhinav Shrivastava](https://www.cs.umd.edu/~abhinav/). My research interests include machine learning and computer vision. Currently my research focuses on open-world learning and model compression for various recognition tasks.
 <!-- [I'm an external link](https://www.google.com) -->
 I completed my Bachelor's degree from the Department of Electrical Engineering at the [Indian Institute of Technology Madras](https://www.iitm.ac.in/) where I worked with [Prof. A.N. Rajagopalan](http://www.ee.iitm.ac.in/~raju/) and [Prof. Kaushik Mitra](http://www.ee.iitm.ac.in/kmitra/). 
 
